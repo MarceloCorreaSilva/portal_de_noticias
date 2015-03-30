@@ -1,0 +1,1 @@
+<span style="margin: 0px auto;">&copy; Allright reserved.</span>
